@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body {
+  height: 100%;
+  background: #09090b;
+}
+
+body {
+  margin: 0;
+  background: #09090b;
+  color: #fafafa;
+}
+
+.cm-editor {
+  height: 100%;
+  background: transparent !important;
+  font-size: 14px;
+}
+
+.cm-scroller {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+}
+
+.cm-gutters {
+  background: #09090b !important;
+  color: #71717a !important;
+  border-right: 1px solid #27272a !important;
+}
+
+.cm-content {
+  padding: 12px 0;
+}
+
+.cm-activeLine,
+.cm-activeLineGutter {
+  background: rgba(255, 255, 255, 0.04) !important;
+}
+
+.cm-cursor,
+.cm-dropCursor {
+  border-left-color: #f4f4f5 !important;
+}
+
+.cm-selectionBackground,
+.cm-content ::selection {
+  background: rgba(99, 102, 241, 0.35) !important;
+}

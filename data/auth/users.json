@@ -1,0 +1,10 @@
+[
+  {
+    "id": "4c5b8747-eee6-44ad-a16f-e3415a7ffe0a",
+    "name": "Muhammad Fatahilla",
+    "email": "muhfatahilla62@gmail.com",
+    "passwordHash": "1c0460f98d0e487550e54029cd286e9c6261115763fa508766b6a50ff6ad398b683f20358a8c792472871ad52de8d3d6ed8bb480e4dea59705f1f3af490f65c5",
+    "salt": "a526725dd835354d5cb2fc2262bf472d",
+    "createdAt": "2026-03-31T09:53:47.923Z"
+  }
+]
